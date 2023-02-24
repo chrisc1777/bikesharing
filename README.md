@@ -47,3 +47,6 @@ This line graph shows bike users by gender and birth year. The most popular bike
 
 ![8](https://user-images.githubusercontent.com/106359564/221073675-e14c74af-1f67-4add-aab3-ca484d4e5306.png)
 
+## Summary
+Analyzing the bike-sharing data from New York City gave us a lot of meaningful insight into service operations and demographics. We were able to find the duration of checkout times, determine the busiest time of days, customer and subscriber base comparison, and find the most popular age groups. This valuable will help build a strong proposal for a bike-sharing business in Des Moines
+
